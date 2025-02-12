@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Megan Williams. I am a data scientist. 
 <!--
 **meg-williams/meg-williams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
