@@ -3,7 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=%23FFFFFF&labelColor=%23000080%09&color=%23000080)
 ![Static Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=%23F5F5F0&labelColor=%23FF3D00&color=%23FF3D00)
 ![Static Badge](https://img.shields.io/badge/Numpy-mustard?style=for-the-badge&logo=numpy&logoColor=F5F5F0&labelColor=F2BE0D&color=F2BE0D)
-![Static Badge](https://img.shields.io/badge/sql%20-%20mint?style=for-the-badge&logo=mysql&logoColor=%23000080&labelColor=%2380FFAC&color=%2380FFAC)
+![Static Badge](https://img.shields.io/badge/sql%20-%20mint?style=for-the-badge&logo=sqlite&logoColor=%23000080&labelColor=%237FFFD4&color=%237FFFD4)
 
 
 I'm Megan. I have a genuine passion for working with data to help understand the world around us 
