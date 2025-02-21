@@ -20,7 +20,7 @@ I have a genuine passion for working with data to help understand the world arou
 - Public Policy
 - Civic Education
 - Independent Book Stores
-- Getting Predisapointed in the Red Sox
+- Getting Predisappointed in the Red Sox
 - Settling Arguments about Star Wars Cannon
 
 ## Skills
