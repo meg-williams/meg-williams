@@ -14,7 +14,7 @@ I have a genuine passion for working with data to help understand the world arou
 - Data Visualization
 
 
-#### I espcially like applying them to: 
+#### I especially like applying them to: 
 
 - News and Analysis
 - Public Policy
