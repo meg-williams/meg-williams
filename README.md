@@ -7,7 +7,7 @@ I have a genuine passion for working with data to help understand the world arou
 #### My areas of interest include: 
 
 - Machine Learning 
-- Natural Langauge Processing
+- Natural Language Processing
 - Time Series Analysis
 - Regression Analysis
 - Feature Engineering
