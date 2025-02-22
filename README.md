@@ -20,6 +20,7 @@ _______________
 - News and Analysis
 - Public Policy
 - Civic Education
+- Research
 - Independent Book Stores
 - Getting Predisappointed in the Red Sox
 - Settling Arguments about Star Wars Cannon
@@ -48,10 +49,10 @@ from Lala Books and similar stores.
 efficiency.
 
 ## Current Projects...
-### 
+### Fantasy Baseball Drafting Tool
+- 
 
-
-
+<pre> ```python # This is a Python code block with syntax highlighting import numpy as np from sklearn.linear_model import LinearRegression model = LinearRegression() model.fit(X_train, y_train) ``` </pre>
 
 
 <!--
